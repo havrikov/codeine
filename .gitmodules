@@ -1,0 +1,9 @@
+[submodule "tools/tribble"]
+	path = tools/tribble
+	url = https://github.com/havrikov/tribble.git
+[submodule "tools/subjects"]
+	path = tools/subjects
+	url = https://github.com/havrikov/text-processing-java-projects.git
+[submodule "tools/mexcounter"]
+	path = tools/mexcounter
+	url = https://github.com/havrikov/mexcounter.git
